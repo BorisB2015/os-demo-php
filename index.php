@@ -23,7 +23,7 @@
   </style>
  </head>
  <body>   
- <h1>OpenShift: Hello Ignite!</h1>
+ <h1>OpenShift: Hello Ignite with RSYNC</h1>
  <br>
  <!--
    <p>Let's see CI in action!</p>
