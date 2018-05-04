@@ -82,6 +82,6 @@ if ($conn) {
 }
 ?>
 <br>
-<img src="https://www.redhat.com/profiles/rh/themes/redhatdotcom/img/logo.png" alt="Red Hat"> &amp; <img src="http://build.microsoft.com/img/logo-ms.png" alt="Microsoft"> 
+<img src="https://www.redhat.com/profiles/rh/themes/redhatdotcom/img/logo.png" alt="Red Hat"> &amp; <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31" alt="Microsoft"> 
  </body>
 </html>
