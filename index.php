@@ -23,7 +23,7 @@
   </style>
  </head>
  <body>   
- <h1>Hello Summit!</h1>
+ <h1>Hello RH Summit Lab!</h1>
  <br>
  <!--
    <p>Let's see CI in action!</p>
