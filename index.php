@@ -23,7 +23,7 @@
   </style>
  </head>
  <body>   
- <h1>Hello Demo!</h1>
+ <h1>Hello DevOps Lab!</h1>
  <br>
  <!--
    <p>Let's see CI in action!</p>
